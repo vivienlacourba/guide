@@ -1,4 +1,4 @@
-# Guide
+# Guide.
 
 The repository for "[The Art of Consensus](https://www.w3.org/guide/)", W3C's Chair's Guidebook.
 
